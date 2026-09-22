@@ -2,139 +2,139 @@
   <img src="cover.jpg" alt="Supreme Producer Drum Kit Cover" width="100%" style="border-radius: 14px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);">
 </p>
 
-<h1 align="center">🔥 SUPREME PRODUCER DRUM KIT & MELODY SUITE</h1>
+<h1 align="center">🔥 SUPREME PRODUCER SUITE v2.0</h1>
 <p align="center">
-  <b>El kit definitivo de producción musical para FL Studio, Ableton, Logic Pro y cualquier DAW</b><br>
-  <i>One-Shots, 808s afinados en C, Kicks, Snares, Claps, Hi-Hats, Percusiones, FX, Loops de Melodía con Auto-Tempo y Patrones MIDI.</i>
+  <b>El arsenal definitivo de producción musical para FL Studio, Ableton Live, Logic Pro y cualquier DAW</b><br>
+  <i>32 Melodías Complejas inspiradas en Hits Mundiales + 62 Drum Loops de Género + Drum Kit Completo + MIDIs</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FL_Studio-Compatible-ff6f00?style=for-the-badge&logo=flstudio&logoColor=white" alt="FL Studio">
-  <img src="https://img.shields.io/badge/Format-WAV_24/16bit_+_MIDI-00c853?style=for-the-badge" alt="WAV & MIDI">
-  <img src="https://img.shields.io/badge/Tempo_Sync-ACID_Auto--Stretch-7928ca?style=for-the-badge" alt="ACID Auto-Stretch">
-  <img src="https://img.shields.io/badge/License-100%25_Royalty_Free-0070f3?style=for-the-badge" alt="100% Royalty Free">
+  <img src="https://img.shields.io/badge/Version-2.0.0_Ultimate-ff0055?style=for-the-badge" alt="Version 2.0.0">
+  <img src="https://img.shields.io/badge/Total_Assets-150+_Files-00c853?style=for-the-badge" alt="150+ Files">
+  <img src="https://img.shields.io/badge/Melody_Samples-32_Hit_Inspired-ff6f00?style=for-the-badge" alt="32 Melodies">
+  <img src="https://img.shields.io/badge/Drum_Loops-62_Auto--Tempo-7928ca?style=for-the-badge" alt="62 Loops">
+  <img src="https://img.shields.io/badge/License-100%25_Royalty_Free-0070f3?style=for-the-badge" alt="Royalty Free">
 </p>
 
 ---
 
-## ⚡ ¿Qué incluye este Drum Kit?
+## ⚡ ¿Qué hay de nuevo en la Versión 2.0?
 
-El **Supreme Producer Drum Kit** ha sido diseñado desde cero con algoritmos acústicos y técnicas de síntesis DSP avanzadas para ofrecer una pegada moderna, limpia y contundente sin saturaciones indeseadas.
-
-- 💎 **52 Archivos de Audio y MIDI de Alta Definición**.
-- 🎹 **808s Afinados en C**: Todos los bajos 808 están perfectamente afinados en C (Do) para que puedas tocar cualquier escala en el Piano Roll sin desafinar.
-- ⏱️ **Auto-Ajustable al Tempo (WAV ACIDized)**: Todos los Melody Loops y Drum Loops integran metadatos RIFF `acid`. Al arrastrarlos a la Playlist de **FL Studio**, se sincronizan y adaptan automáticamente al BPM de tu proyecto sin alterar el tono (*Time Stretching automático*).
-- 🎼 **Patrones MIDI Profesionales**: Incluye archivos `.mid` de redobles de hi-hats (triplets, rolls 1/32), progresiones de acordes, melodías de piano drill y ritmos de dembow.
-- 🔓 **100% Libre de Regalías (Royalty-Free)**: Puedes usarlo en tus canciones en Spotify, Apple Music, YouTube o venta de beats sin pagar licencias.
-
----
-
-## 📂 Estructura y Contenido del Kit
-
-### 🔊 01. 808s & Sub Basses (Afinados en C)
-* `808_Spinz_Classic_C.wav` — El 808 clásico con armónicos cálidos y pegada frontal que corta en altavoces de teléfono.
-* `808_Sub_Heavyweight_C.wav` — Subgrave profundo y demoledor para frecuencias de 30-60Hz.
-* `808_Drill_Slide_Distorted_C.wav` — 808 agresivo para UK/NY Drill con saturación de tubo y curva de deslizamiento.
-* `808_Pluck_Punchy_C.wav` — 808 corto y tenso para ritmos rápidos y tempos altos.
-* `808_Cyber_Sub_C.wav` — Subgrave futurista con modulación sutil y cuerpo estéreo.
-
-### 💥 02. Kicks (Pegada sin cancelaciones de fase)
-* `Kick_Hard_Hitter_Trap.wav` — Golpe seco a 52Hz con click transitorio afilado.
-* `Kick_Acoustic_Layered.wav` — Capa orgánica combinada con pegada electrónica.
-* `Kick_Dembow_Punch_Latin.wav` — Kick redondo y contundente diseñado para el ritmo del reggaeton.
-* `Kick_Drill_Knock.wav` — Golpe corto de respuesta rápida para convivir con 808s deslizantes.
-* `Kick_Sub_Thump.wav` — Golpe con peso en subgraves para trap atmosférico.
-
-### 🎯 03. Snares & Rims
-* `Snare_Trap_Classic_Smack.wav` — Caja clásica de trap con cuerpo en 185Hz y ruido brillante.
-* `Snare_Drill_Ghost_Metallic.wav` — Snare con timbre metálico para contratiempos de drill.
-* `Snare_Reggaeton_Dembow.wav` — Snare acústico y cortante para el patrón característico de dembow.
-* `Rimshot_Clean_Wood.wav` — Golpe de aro de madera limpio y orgánico.
-* `Snare_Layer_Clap_Fusion.wav` — Capa híbrida de caja + aplauso para estribillos explosivos.
-
-### 👏 04. Claps
-* `Clap_Trap_Crisp.wav` — Clap con ráfagas previas espaciadas para máxima tensión rítmica.
-* `Clap_Stadium_Wide.wav` — Clap con ensanchamiento estéreo y apertura dimensional.
-* `Clap_Short_Dry.wav` — Clap apretado y seco para bounce rápido.
-* `Clap_Vintage_Analog.wav` — Aplauso analógico inspirado en cajas de ritmo clásicas.
-
-### 🎩 05. Hi-Hats & Cymbals
-* `HiHat_Closed_Crisp_Clean.wav` — Hi-hat cerrado filtrado por encima de 7.5kHz para evitar asperezas.
-* `HiHat_Closed_Metallic_Drill.wav` — Hi-hat ultracorto ideal para redobles a 1/32 y 1/64.
-* `HiHat_Open_Long_Sustain.wav` — Hi-hat abierto con caída suave para contratiempos.
-* `HiHat_Open_Pedal_Choke.wav` — Hi-hat abierto corto con ahogo de pedal.
-* `Crash_Cymbal_Impact.wav` — Platillo de impacto brillante con estéreo reverb envolvente.
-
-### 🥁 06. Percussion
-* `Perc_Phonk_Cowbell.wav` — Cencerro sintetizado con doble oscilador para Memphis Rap / Phonk.
-* `Perc_Woodblock_Organic.wav` — Bloque de madera percusivo a 1200Hz.
-* `Perc_Metal_Pipe_Hit.wav` — Impacto metálico inarmónico industrial.
-* `Perc_Bongo_Conga_Slap.wav` — Golpe de membrana percusiva latina.
-* `Perc_Shaker_Loop_Hit.wav` — Transitorio de maraca/shaker con textura granular.
-
-### 🌌 07. FX & Chants
-* `FX_Vocal_Chant_Hey.wav` — Cántico vocal sintético "Hey!" con formantes humanos.
-* `FX_Riser_4Bar_Sweep_140BPM.wav` — Subida de tensión de 4 compases auto-sincronizada a 140 BPM.
-* `FX_Sub_Drop_Impact.wav` — Caída cinemática de subgrave de 130Hz a 25Hz.
-* `FX_Laser_Zap_Trap.wav` — Disparo láser electrónico retro-futurista.
-* `FX_Vinyl_Crackling_Texture.wav` — Ruido y textura de vinilo analógico para fondos.
-
-### 🎹 08. Melody Loops (Auto-Ajustables al Tempo)
-| Loop | BPM | Tonalidad (Key) | Estilo |
-| :--- | :--- | :--- | :--- |
-| `Melody_140BPM_Cm_Astroworld_Space_Synth.wav` | 140 BPM | C Minor (Cm) | Acordes y arpegio espacial estilo Travis Scott / Mike Dean |
-| `Melody_130BPM_Am_Tokyo_Night_Pluck.wav` | 130 BPM | A Minor (Am) | Pluck pentatónico melódico con campana shimmer |
-| `Melody_96BPM_Fm_Latin_Reggaeton_Vibes.wav` | 96 BPM | F Minor (Fm) | Stabs de acordes y sinte melódico estilo Tainy / Bad Bunny |
-| `Melody_142BPM_Em_Dark_Drill_Piano.wav` | 142 BPM | E Minor (Em) | Piano oscuro con arpegios de tensión para UK/NY Drill |
-
-### 🥁 09. Drum Loops (Auto-Ajustables al Tempo)
-| Loop | BPM | Descripción |
-| :--- | :--- | :--- |
-| `DrumLoop_140BPM_Full_Trap_Bounce.wav` | 140 BPM | Beat completo de trap con Kick, Clap en el 3, redobles y 808 |
-| `DrumLoop_140BPM_Top_Loop.wav` | 140 BPM | Loop de hi-hats, clap y percusión sin kick ni bajo para mezclar libremente |
-| `DrumLoop_142BPM_UK_Drill_Groove.wav` | 142 BPM | Patrón sincopado de drill con ghost snares y bounce deslizante |
-| `DrumLoop_96BPM_Reggaeton_Perreo_Beat.wav` | 96 BPM | Base completa de dembow de reggaeton con pegada dura |
-
-### 🎼 10. MIDI Patterns (Arrastra al Piano Roll)
-* `MIDI_HiHat_Roll_140BPM_Trap.mid` — Patrón de hi-hats con dinámicas de velocidad y redobles en tresillos.
-* `MIDI_HiHat_Bounce_142BPM_Drill.mid` — Saltos rítmicos sincopados de hi-hats para drill.
-* `MIDI_808_Trap_Pattern_Cm.mid` — Línea de bajo 808 pegadiza en C menor.
-* `MIDI_Snare_Clap_Trap_140BPM.mid` — Aplausos y ghost snares listos para usar.
-* `MIDI_Reggaeton_Dembow_Groove.mid` — Patrón MIDI completo de batería dembow.
-* `MIDI_Melody_Astroworld_Cm.mid` — Progresión de acordes completa en C menor.
-* `MIDI_Melody_Tokyo_Pluck_Am.mid` — Melodía completa en A menor.
-* `MIDI_Melody_Drill_Piano_Em.mid` — Arpegio y notas de tensión en E menor.
+Esta actualización masiva responde a la máxima exigencia de producción profesional:
+- 🎹 **32 Samples de Melodías Complejas y Post-Procesadas**:
+  - Sonido cálido, analógico y orgánico: **Cero estridencias ni frecuencias chillonas**.
+  - Ecualización quirúrgica (corte suave a 6.5kHz, realce cálido en medios-graves a 250-500Hz).
+  - Reverb de estudio multicámara Freeverb/Schroeder con amortiguación sedosa.
+  - Multi-capas completas: Progresiones de acordes (Rhodes vintage, pads analógicos, guitarras fingerpicked), hooks melódicos (flautas de aire, campanas shimmer) y líneas de subgrave de soporte.
+  - Inspiradas en los mayores éxitos mundiales de **Travis Scott, Metro Boomin, Bad Bunny, Feid, Rauw Alejandro, Pop Smoke, Central Cee, Kendrick Lamar, Dr. Dre, Rema, Burna Boy, The Weeknd y SZA**, con variaciones creativas y pegadizas.
+- 🥁 **62 Drum Loops de Género (Full Beats + Top Loops)**:
+  - 12 Loops de **Trap** (Astroworld, Superhero, Drip Too Hard, Lucid Dreams, Rich Flex, Mask Off).
+  - 12 Loops de **Reggaeton & Dembow** (Tití Me Preguntó, Ferxxo, Todo De Ti, Monaco, Dákiti, Gasolina).
+  - 12 Loops de **UK / NY Drill** (Dior, Doja, Big Drip, Body, Pelele, Stomp).
+  - 12 Loops de **Hip-Hop & BoomBap / West Coast** (Not Like Us, Still D.R.E., No Role Modelz, Praise The Lord, Self Care, 90s Golden Era).
+  - 14 Loops de **Afro-Urban & Modern R&B** (Calm Down, Last Last, Essence, Amapiano Log Drum, Blinding Lights, Kill Bill, TrapSoul).
+- ⏱️ **Tecnología Auto-Ajustable al Tempo (WAV ACIDized)**:
+  - Todos los 94 loops (32 melodías + 62 drum loops) contienen cabeceras **RIFF `acid`**. Al arrastrarlos a la Playlist de **FL Studio**, se sincronizan automáticamente al BPM de tu sesión sin perder afinación ni calidad.
+- 🎯 **34 One-Shots de Batería de Alta Definición**: 808s afinados en C, kicks con pegada sin cancelaciones, cajas, claps multicapa, hi-hats ultrafiltrados, percusiones phonk/latinas y efectos FX.
+- 🎼 **Patrones MIDI**: Redobles de hi-hats en tresillos, bajos 808, ritmos dembow y progresiones de acordes.
 
 ---
 
-## 🚀 Instalación Rápida
+## 🎹 Catálogo de las 32 Melodías Complejas (Hit-Inspired)
 
-### Opción 1: Instalador Automático en Windows
-1. Descarga el paquete ZIP desde **[Releases](../../releases)**.
+| # | Nombre de Archivo | Género | BPM | Tonalidad | Inspiración / Vibra |
+| :-: | :--- | :--- | :-: | :-: | :--- |
+| **01** | `Trap_140BPM_Cm_Astroworld_Goosebumps.wav` | Trap | 140 | C Minor | Travis Scott (*Goosebumps / Astroworld*) |
+| **02** | `Trap_138BPM_Am_Superhero_Cinematic.wav` | Trap | 138 | A Minor | Metro Boomin & Future (*Superhero*) |
+| **03** | `Trap_132BPM_Fm_Drip_Too_Hard_Guitar.wav` | Trap | 132 | F Minor | Lil Baby & Gunna (*Drip Too Hard*) |
+| **04** | `Trap_130BPM_Dm_Mask_Off_Haunting_Flute.wav` | Trap | 130 | D Minor | Future (*Mask Off*) |
+| **05** | `Trap_144BPM_Em_Lucid_Dreams_Guitar.wav` | Trap | 144 | E Minor | Juice WRLD (*Lucid Dreams*) |
+| **06** | `Trap_136BPM_Abm_Jimmy_Cooks_Soul.wav` | Trap | 136 | Ab Minor | Drake & 21 Savage (*Jimmy Cooks*) |
+| **07** | `Trap_140BPM_Bbm_The_Box_Orchestral.wav` | Trap | 140 | Bb Minor | Roddy Ricch (*The Box*) |
+| **08** | `Trap_134BPM_Gm_Pushin_P_Ambient.wav` | Trap | 134 | G Minor | Gunna & Young Thug (*Pushin P*) |
+| **09** | `Reggaeton_96BPM_Fm_Titi_Me_Pregunto.wav` | Reggaeton | 96 | F Minor | Bad Bunny (*Tití Me Preguntó*) |
+| **10** | `Reggaeton_92BPM_Am_Feliz_Cumpleanos_Ferxxo.wav` | Reggaeton | 92 | A Minor | Feid (*Feliz Cumpleaños Ferxxo*) |
+| **11** | `Reggaeton_98BPM_Cm_Todo_De_Ti_Synth.wav` | Reggaeton | 98 | C Minor | Rauw Alejandro (*Todo De Ti*) |
+| **12** | `Reggaeton_128BPM_Dm_Bzrp_Quevedo_Quedate.wav` | Latin/Dance | 128 | D Minor | Bizarrap & Quevedo (*Bzrp Session 52*) |
+| **13** | `Reggaeton_95BPM_Abm_Monaco_Cinematic.wav` | Latin Trap | 95 | Ab Minor | Bad Bunny (*Monaco*) |
+| **14** | `Reggaeton_94BPM_Em_Classy_101_Keys.wav` | Reggaeton | 94 | E Minor | Feid & Young Miko (*Classy 101*) |
+| **15** | `Reggaeton_90BPM_Bbm_Dakiti_Ambient_Pluck.wav` | Reggaeton | 90 | Bb Minor | Bad Bunny & Jhayco (*Dákiti*) |
+| **16** | `Reggaeton_96BPM_Gm_Desesperados_Lead.wav` | Reggaeton | 96 | G Minor | Rauw Alejandro (*Desesperados*) |
+| **17** | `Drill_142BPM_Em_Dior_Eerie_Bells.wav` | Drill | 142 | E Minor | Pop Smoke (*Dior*) |
+| **18** | `Drill_140BPM_Cm_Doja_Whistle_Drill.wav` | Drill | 140 | C Minor | Central Cee (*Doja*) |
+| **19** | `Drill_144BPM_Am_Big_Drip_Tritone_Piano.wav` | Drill | 144 | A Minor | Fivio Foreign (*Big Drip*) |
+| **20** | `Drill_141BPM_Fm_Body_Sliding_Pluck.wav` | Drill | 141 | F Minor | Russ Millions & Tion Wayne (*Body*) |
+| **21** | `Drill_143BPM_Dm_Pelele_Spanish_Drill.wav` | Drill | 143 | D Minor | Morad (*Pelele*) |
+| **22** | `Drill_140BPM_Gm_Welcome_Party_Choir.wav` | Drill | 140 | G Minor | Pop Smoke (*Welcome to the Party*) |
+| **23** | `HipHop_100BPM_Am_Not_Like_Us_West_Coast.wav` | West Coast | 100 | A Minor | Kendrick Lamar (*Not Like Us*) |
+| **24** | `HipHop_94BPM_Cm_Still_Dre_Piano_Staccato.wav` | Hip-Hop | 94 | C Minor | Dr. Dre & Snoop Dogg (*Still D.R.E.*) |
+| **25** | `HipHop_88BPM_Fm_No_Role_Modelz_Jazzy.wav` | Boombap | 88 | F Minor | J. Cole (*No Role Modelz*) |
+| **26** | `HipHop_92BPM_Dm_Praise_The_Lord_Pan_Flute.wav` | Hip-Hop | 92 | D Minor | A$AP Rocky & Skepta (*Praise The Lord*) |
+| **27** | `HipHop_85BPM_Em_Self_Care_Neo_Soul.wav` | Neo-Soul | 85 | E Minor | Mac Miller (*Self Care*) |
+| **28** | `HipHop_89BPM_Abm_Alright_Chords.wav` | Hip-Hop | 89 | Ab Minor | Kendrick Lamar (*Alright*) |
+| **29** | `Afro_Urban_100BPM_Am_Calm_Down_Afro_Guitar.wav` | Afrobeats | 100 | A Minor | Rema (*Calm Down*) |
+| **30** | `Afro_Urban_104BPM_Fm_Last_Last_Soul_Brass.wav` | Afro-Fusion | 104 | F Minor | Burna Boy (*Last Last*) |
+| **31** | `RnB_120BPM_Dm_Blinding_Lights_Vintage_Synth.wav` | Synth R&B | 120 | D Minor | The Weeknd (*Blinding Lights*) |
+| **32** | `RnB_86BPM_Cm_Kill_Bill_Lofi_Guitar.wav` | Lo-Fi R&B | 86 | C Minor | SZA (*Kill Bill*) |
+
+---
+
+## 🥁 Catálogo de los 62 Drum Loops de Género
+
+Organizados en 5 subcarpetas con versiones **Full Beat** y **Top Loop** (sin kick ni bajo para mezclar):
+
+### 1. Trap Loops (12 Loops)
+* `Trap_Loop_140BPM_Astroworld_Sicko_Bounce_Full.wav` / `_Top_Loop.wav` (140 BPM)
+* `Trap_Loop_138BPM_Metro_Superhero_Hard_Full.wav` / `_Top_Loop.wav` (138 BPM)
+* `Trap_Loop_132BPM_Baby_Gunna_Drip_Bounce_Full.wav` / `_Top_Loop.wav` (132 BPM)
+* `Trap_Loop_144BPM_Juice_Lucid_Trap_Full.wav` / `_Top_Loop.wav` (144 BPM)
+* `Trap_Loop_136BPM_Drake_21_Rich_Flex_Full.wav` / `_Top_Loop.wav` (136 BPM)
+* `Trap_Loop_130BPM_Future_Mask_Off_Rolls_Full.wav` / `_Top_Loop.wav` (130 BPM)
+
+### 2. Reggaeton Loops (12 Loops)
+* `Reggaeton_Loop_96BPM_BadBunny_Titi_Dembow_Full.wav` / `_Top.wav` (96 BPM)
+* `Reggaeton_Loop_92BPM_Feid_Ferxxo_Crisp_Full.wav` / `_Top.wav` (92 BPM)
+* `Reggaeton_Loop_98BPM_Rauw_TodoDeTi_Bounce_Full.wav` / `_Top.wav` (98 BPM)
+* `Reggaeton_Loop_95BPM_Monaco_Heavy_Dembow_Full.wav` / `_Top.wav` (95 BPM)
+* `Reggaeton_Loop_90BPM_Dakiti_Smooth_Groove_Full.wav` / `_Top.wav` (90 BPM)
+* `Reggaeton_Loop_102BPM_Gasolina_Classic_Perreo_Full.wav` / `_Top.wav` (102 BPM)
+
+### 3. Drill Loops (12 Loops)
+* `Drill_Loop_142BPM_PopSmoke_Dior_Slide_Full.wav` / `_Top_Loop.wav` (142 BPM)
+* `Drill_Loop_140BPM_CentralCee_Doja_Bounce_Full.wav` / `_Top_Loop.wav` (140 BPM)
+* `Drill_Loop_144BPM_Fivio_BigDrip_Aggressive_Full.wav` / `_Top_Loop.wav` (144 BPM)
+* `Drill_Loop_141BPM_Russ_Body_UK_Full.wav` / `_Top_Loop.wav` (141 BPM)
+* `Drill_Loop_143BPM_Morad_Spanish_Drill_Full.wav` / `_Top_Loop.wav` (143 BPM)
+* `Drill_Loop_146BPM_NY_Fast_Drill_Stomp_Full.wav` / `_Top_Loop.wav` (146 BPM)
+
+### 4. Hip-Hop & BoomBap Loops (12 Loops)
+* `HipHop_Loop_100BPM_Kendrick_NotLikeUs_WestCoast_Full.wav` / `_Top_Loop.wav` (100 BPM)
+* `HipHop_Loop_94BPM_Dre_StillDRE_Classic_Full.wav` / `_Top_Loop.wav` (94 BPM)
+* `HipHop_Loop_88BPM_Jole_NoRoleModelz_Vinyl_Full.wav` / `_Top_Loop.wav` (88 BPM)
+* `HipHop_Loop_92BPM_Asap_PraiseTheLord_Bounce_Full.wav` / `_Top_Loop.wav` (92 BPM)
+* `HipHop_Loop_85BPM_MacMiller_SelfCare_Laidback_Full.wav` / `_Top_Loop.wav` (85 BPM)
+* `HipHop_Loop_90BPM_BoomBap_90s_GoldenEra_Full.wav` / `_Top_Loop.wav` (90 BPM)
+
+### 5. Afro-Urban & R&B Loops (14 Loops)
+* `Afro_RnB_Loop_100BPM_Rema_CalmDown_Afrobeats_Full.wav` / `_Top_Loop.wav` (100 BPM)
+* `Afro_RnB_Loop_104BPM_Burna_LastLast_Groove_Full.wav` / `_Top_Loop.wav` (104 BPM)
+* `Afro_RnB_Loop_108BPM_Wizkid_Essence_Warm_Full.wav` / `_Top_Loop.wav` (108 BPM)
+* `Afro_RnB_Loop_112BPM_Amapiano_LogDrum_Bounce_Full.wav` / `_Top_Shakers.wav` (112 BPM)
+* `Afro_RnB_Loop_120BPM_Weeknd_BlindingLights_80s_Full.wav` / `_Top_Loop.wav` (120 BPM)
+* `Afro_RnB_Loop_86BPM_SZA_KillBill_Smooth_Full.wav` / `_Top_Loop.wav` (86 BPM)
+* `Afro_RnB_Loop_95BPM_Modern_TrapSoul_Chill_Full.wav` / `_Top_Loop.wav` (95 BPM)
+
+---
+
+## 🚀 Instalación en 1 Clic
+
+1. Descarga el paquete ZIP de la versión v2.0.0 desde **[Releases](../../releases)**.
 2. Descomprímelo en tu ordenador.
-3. Haz doble clic en **`install.bat`**.
-4. El instalador detectará tu carpeta de **FL Studio** y colocará el kit dentro de `Browser ➔ Packs ➔ Supreme Producer Drum Kit`.
-
-### Opción 2: Instalación Manual en cualquier DAW (FL Studio, Ableton, Logic, Reaper)
-Simplemente arrastra la carpeta descompresa directamente al navegador de archivos de tu DAW favorito o cópiala en tu librería de samples habitual.
-
----
-
-## 🎛️ ¿Cómo funciona el Auto-Ajuste de Tempo en FL Studio?
-
-Los loops de este kit contienen **cabeceras ACID WAV**:
-1. Arrastra cualquier loop de las carpetas `08_Melody_Loops` o `09_Drum_Loops` a la Playlist de FL Studio.
-2. Haz doble clic en el clip de audio.
-3. Verás que el modo de **Time Stretching** se activa automáticamente y el tiempo encaja al milímetro con el compás de tu proyecto, sea cual sea el BPM.
+3. Haz doble clic en **`install.bat`** (copia automáticamente las carpetas a `Browser ➔ Packs ➔ Supreme Producer Drum Kit` de FL Studio).
+4. ¡Listo! Abre FL Studio y tendrás acceso inmediato a las 32 melodías, los 62 drum loops, los one-shots y los MIDIs.
 
 ---
 
 ## 📄 Licencia
 
-Este paquete está distribuido bajo licencia [MIT (100% Royalty Free)](LICENSE). Eres libre de usar estos sonidos en tus producciones comerciales, beats y canciones sin coste adicional.
-
----
-
-<p align="center">
-  Diseñado con pasión para productores, beatmakers y compositores.
-</p>
+Este proyecto está bajo la licencia [MIT (100% Libre de Regalías)](LICENSE) para cualquier producción musical comercial o personal.
