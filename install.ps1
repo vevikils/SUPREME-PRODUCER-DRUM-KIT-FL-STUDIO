@@ -1,6 +1,6 @@
-# Supreme Producer Drum Kit v2.0 - PowerShell Installer
+# Supreme Producer Drum Kit v3.0 - PowerShell Installer
 Write-Host "=====================================================================" -ForegroundColor Cyan
-Write-Host "   🔥 SUPREME PRODUCER SUITE v2.0 — AUTO-INSTALLER" -ForegroundColor Yellow
+Write-Host "   🔥 SUPREME PRODUCER SUITE v3.0 — AUTO-INSTALLER" -ForegroundColor Yellow
 Write-Host "=====================================================================" -ForegroundColor Cyan
 
 $docs = [Environment]::GetFolderPath('MyDocuments')
@@ -24,7 +24,7 @@ $folders = @(
     "01_808s_&_Basses", "02_Kicks", "03_Snares_&_Rims", "04_Claps",
     "05_HiHats_&_Cymbals", "06_Percussion", "07_FX_&_Chants",
     "08_Melody_Samples_32_(Hit_Inspired_Auto_Tempo)",
-    "09_Drum_Loops_62_(Genre_Beats_Auto_Tempo)",
+    "09_Drum_Loops_64_Authentic_Hits_(Auto_Tempo)",
     "10_MIDI_Patterns"
 )
 
@@ -38,6 +38,6 @@ foreach ($f in $folders) {
 
 Copy-Item -Path (Join-Path $PSScriptRoot "cover.jpg") -Destination $targetDir -Force
 
-Write-Host "`n[EXITO] Drum Kit Suite v2.0 instalado en FL Studio (Packs)!" -ForegroundColor Green
+Write-Host "`n[EXITO] Drum Kit Suite v3.0 instalado en FL Studio (Packs)!" -ForegroundColor Green
 Write-Host "Presiona cualquier tecla para salir..."
 [void][System.Console]::ReadKey()

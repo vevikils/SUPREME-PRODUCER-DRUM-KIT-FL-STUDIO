@@ -1,10 +1,10 @@
 @echo off
 chcp 65001 >nul
-title Supreme Producer Drum Kit v2.0 - Auto-Installer
+title Supreme Producer Suite v3.0 - Auto-Installer
 cls
 echo =====================================================================
-echo    🔥 SUPREME PRODUCER SUITE v2.0 — AUTO-INSTALLER PARA FL STUDIO
-echo    (32 Melodias + 62 Drum Loops de Hits + One-Shots + MIDIs)
+echo    🔥 SUPREME PRODUCER SUITE v3.0 — AUTO-INSTALLER PARA FL STUDIO
+echo    (32 Melodias Complejas + 64 Drum Loops Autenticos de Hits + One-Shots)
 echo =====================================================================
 echo.
 
@@ -27,7 +27,7 @@ if not exist "%TARGET_DIR%" (
     mkdir "%TARGET_DIR%"
 )
 
-echo [*] Copiando librerias completas (150+ archivos)...
+echo [*] Copiando librerias completas (138 archivos)...
 xcopy /E /I /Y /Q "%~dp001_808s_&_Basses" "%TARGET_DIR%\01_808s_&_Basses" >nul
 xcopy /E /I /Y /Q "%~dp002_Kicks" "%TARGET_DIR%\02_Kicks" >nul
 xcopy /E /I /Y /Q "%~dp003_Snares_&_Rims" "%TARGET_DIR%\03_Snares_&_Rims" >nul
@@ -36,14 +36,14 @@ xcopy /E /I /Y /Q "%~dp005_HiHats_&_Cymbals" "%TARGET_DIR%\05_HiHats_&_Cymbals" 
 xcopy /E /I /Y /Q "%~dp006_Percussion" "%TARGET_DIR%\06_Percussion" >nul
 xcopy /E /I /Y /Q "%~dp007_FX_&_Chants" "%TARGET_DIR%\07_FX_&_Chants" >nul
 xcopy /E /I /Y /Q "%~dp008_Melody_Samples_32_(Hit_Inspired_Auto_Tempo)" "%TARGET_DIR%\08_Melody_Samples_32_(Hit_Inspired_Auto_Tempo)" >nul
-xcopy /E /I /Y /Q "%~dp009_Drum_Loops_62_(Genre_Beats_Auto_Tempo)" "%TARGET_DIR%\09_Drum_Loops_62_(Genre_Beats_Auto_Tempo)" >nul
+xcopy /E /I /Y /Q "%~dp009_Drum_Loops_64_Authentic_Hits_(Auto_Tempo)" "%TARGET_DIR%\09_Drum_Loops_64_Authentic_Hits_(Auto_Tempo)" >nul
 xcopy /E /I /Y /Q "%~dp010_MIDI_Patterns" "%TARGET_DIR%\10_MIDI_Patterns" >nul
 copy /Y "%~dp0cover.jpg" "%TARGET_DIR%\" >nul
 
 if %errorlevel% equ 0 (
     echo.
     echo =====================================================================
-    echo   [EXITO] Supreme Producer Suite v2.0 instalado en FL Studio!
+    echo   [EXITO] Supreme Producer Suite v3.0 instalado en FL Studio!
     echo =====================================================================
     echo.
     echo   COMO USAR EN FL STUDIO:
@@ -53,7 +53,7 @@ if %errorlevel% equ 0 (
     echo   4. Arrastra cualquier muestra, loop o MIDI a la Playlist o Channel Rack.
     echo.
     echo   AUTO-TEMPO:
-    echo   Los 32 samples de melodias y los 62 drum loops contienen cabeceras
+    echo   Los 32 samples de melodias y los 64 drum loops contienen cabeceras
     echo   ACID WAV que se sincronizan automaticamente al BPM de tu proyecto!
     echo.
 ) else (
